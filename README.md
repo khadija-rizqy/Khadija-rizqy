@@ -3,7 +3,7 @@
 <img src="assets/hero.svg" alt="Khadija RIZQY - Data Engineering Student" width="100%"/>
 
 <a href="https://github.com/khadija-rizqy">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=Data+Engineering+Student;Turning+raw+data+into+decisions;Creator+of+My+Future+IA;Open+to+international+opportunities" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=Data+Engineering+Student;Turning+raw+data+into+decisions;Creator+of+My+Future+IA;Building+apps+that+learn" alt="Typing animation" />
 </a>
 
 <br/><br/>
@@ -34,7 +34,7 @@
 >
 > I hold a **DUT in Data Engineering** from the *École Supérieure de Technologie d'El Kelaâ des Sraghna* (Morocco). I combine **data analysis**, **application development** and **AI** to build things people actually use, like an orientation platform presented to a provincial education authority.
 >
-> I'm rigorous, curious, and I want to take the next step in an **international Data Science program**, to work on projects with real impact.
+> I'm rigorous, curious, and I'm drawn to projects with high value, where data makes a real difference.
 
 <br/>
 
@@ -85,21 +85,17 @@ Automated **classification of land subdivisions** for the Municipality of El Kel
 
 <br/>
 
-## `04 //` Next destination
+## `04 //` Model card
 
 <div align="center">
-  <img src="assets/boarding.svg" alt="Boarding pass: Morocco to the world" width="92%"/>
+  <img src="assets/modelcard.svg" alt="Model card of khadija-v2026" width="92%"/>
 </div>
 
 <br/>
 
-- Looking for an **international program (Master's)** in **Data Science / AI**
-- Eager to work on projects where data creates **real-world impact**
+- Curious by default: I open the dataset before I read the conclusions
+- I like projects where data creates **real-world impact**
 - Always learning, always shipping
-
-| Arabic | French | English |
-|:---:|:---:|:---:|
-| Native | B2 | A2 |
 
 <br/>
 
